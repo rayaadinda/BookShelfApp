@@ -169,7 +169,7 @@ main {
     width: 40px;
     height: 40px;
 
-    background: url('../assets/check-square-svgrepo-com.svg');
+    background: url('assets/check-square-svgrepo-com.svg');
     background-size: contain;
     margin-left: auto;
     cursor: pointer;
@@ -177,7 +177,7 @@ main {
 }
 
 .check-button:hover {
-    background: url('../assets/check-square-hover.svg');
+    background: url('assets/check-square-hover.svg');
     background-size: contain;
 }
 
@@ -186,7 +186,7 @@ main {
     height: 40px;
    
 
-    background: url('../assets/trash-bin-trash-svgrepo-com.svg');
+    background: url('/assets/trash-bin-trash-svgrepo-com.svg');
     background-size: contain;
     margin-left: auto;
     cursor: pointer;
@@ -194,7 +194,7 @@ main {
 }
 
 .trash1-button:hover {
-    background: url('../assets/trash-bin-hover.svg');
+    background: url('/assets/trash-bin-hover.svg');
     background-size: contain;
 }
 
@@ -203,7 +203,7 @@ main {
     height: 40px;
 
 
-    background: url('../assets/trash-bin-trash-svgrepo-com.svg');
+    background: url('/assets/trash-bin-trash-svgrepo-com.svg');
     background-size: contain;
     margin-left: auto;
     cursor: pointer;
@@ -211,7 +211,7 @@ main {
 }
 
 .trash-button:hover {
-    background: url('../assets/trash-bin-hover.svg');
+    background: url('/assets/trash-bin-hover.svg');
     background-size: contain;
 }
 
@@ -220,7 +220,7 @@ main {
     height: 40px;
 
 
-    background: url('../assets/undo-right-round-square-svgrepo-com.svg');
+    background: url('/assets/undo-right-round-square-svgrepo-com.svg');
     background-size: contain;
     margin-left: auto;
     cursor: pointer;
@@ -228,7 +228,7 @@ main {
 }
 
 .undo-button:hover {
-    background: url('../assets/undo-right-square-hover.svg');
+    background: url('/assets/undo-right-square-hover.svg');
     background-size: contain;
 }
 
